@@ -1,0 +1,10 @@
+Name=Quantum Man
+Description=Put me in a box an I am neither dead or alive!
+Spell1Name=Entanglement Shot
+Spell1Description=All that are hit by this shot will take the damage from the next hit on this champ.
+Spell2Name=Tunnelling Barrier
+Spell2Description=Enemy projectiles bounce off, friendly ones will pass.
+Spell3Name=
+Spell3Description=
+PassiveName=Superposition
+PassiveDescription=Being in multiple places at the same time, it sometimes happens.

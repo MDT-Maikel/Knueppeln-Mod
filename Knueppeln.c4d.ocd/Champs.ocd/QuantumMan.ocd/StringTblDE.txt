@@ -1,0 +1,10 @@
+Name=Quantum Man
+Description=Put me in a box an I am neither dead or alive!
+Spell1Name=Entanglement Shot
+Spell1Description=All that are hit by this shot will take the damage from the next hit on this champ.
+Spell2Name=Tunnelling Barrier
+Spell2Description=Enemy projectiles bounce off, friendly ones will pass.
+Spell3Name=Superposition
+Spell3Description=The Quantum man is shortly in several states and can't be detected easily.
+PassiveName=Schrödinger's Cat
+PassiveDescription=Performs one more measurement for being dead or alive, has a 10% survival chance.
